@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-## 关于我
+## 原作者信息
 
 <iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
@@ -30,7 +30,7 @@ type: page
 * 2013.6 毕业于西安交通大学 理学院
 * 2001 获得西航四校总成绩年级排名第八名
 
-## 联系我
+## 联系他
 
 * GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
 * email：gaohaoyang126@126.com
