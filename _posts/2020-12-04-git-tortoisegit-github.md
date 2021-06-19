@@ -174,3 +174,9 @@ TortoiseGitのPuttygenを起動し、[Generate]でキーを生成する。生成
 
 ![image-20201204131945908](https://i.loli.net/2020/12/04/JB9vKrFpmZPCTGR.png)
 
+
+
+
+
+※Git, BitBucket, SourceTreeの解説記事です
+※https://qiita.com/masatomix/items/a3f99a1700a835e845dd
